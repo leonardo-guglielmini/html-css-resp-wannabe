@@ -18,22 +18,23 @@
         flex-wrap: wrap;
     }
 
-    .col{
+    .row .col{
         padding-top: 25px;
         padding-bottom: 15px;
-    }
-
-    .lessons .col{
         width: 100%;
     }
+
+    /* .lessons .col{
+        width: 100%;
+    } */
 
     .steps{
         margin:0;
     }
 
-    .steps .col{
+    /* .steps .col{
         width: 100%;
-    }
+    } */
 
     .why-us{
         padding: 3em 0;
@@ -41,9 +42,9 @@
         background-color: #222222;
     }
 
-    .why-us .col{
+    /* .why-us .col{
         width: 100%;
-    }
+    } */
 
     h2{
         margin-bottom: 0rem;
