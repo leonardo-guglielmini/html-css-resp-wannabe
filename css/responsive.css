@@ -1,7 +1,9 @@
 
-/*overwrite container width to fit in all viewport*/
+/*overwrite container width to fit in all viewport max-width<1160px */
+@media (max-width:1160px){
 .container{
     max-width: 100%;
+}
 }
 
 @media (max-width: 768px){
